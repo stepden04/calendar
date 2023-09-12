@@ -1,0 +1,7 @@
+cache.json
+.env
+*.cfg
+lib64
+lib
+include
+bin
